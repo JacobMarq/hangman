@@ -1,0 +1,15 @@
+--- !ruby/object:Game
+guess_word: portland
+hidden_word: '_ o _ _ l a n _ '
+guesses_made:
+- a
+- e
+- i
+- o
+- u
+- l
+- n
+- h
+- g
+guesses_left: 3
+id: '21230'

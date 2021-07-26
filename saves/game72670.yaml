@@ -1,0 +1,15 @@
+--- !ruby/object:Game
+guess_word: bittiness
+hidden_word: 'b i t t i n e _ _ '
+guesses_made:
+- a
+- p
+- c
+- r
+- b
+- i
+- t
+- n
+- e
+guesses_left: 3
+id: '72670'

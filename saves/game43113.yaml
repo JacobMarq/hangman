@@ -1,0 +1,6 @@
+--- !ruby/object:Game
+guess_word: petal
+hidden_word: '_ _ _ _ _ '
+guesses_made: []
+guesses_left: 12
+id: '43113'
