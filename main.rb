@@ -119,7 +119,7 @@ while program_running
     
     # turn cycle start
     while game_active
-        puts "\n#{current_game.guesses_made}\n"
+        puts "\nGuesses made: #{current_game.guesses_made.join(" ")}"
         puts "\n#{current_game.hidden_word}\n"
         puts "\nRemaining guesses: #{current_game.guesses_left}"
 
